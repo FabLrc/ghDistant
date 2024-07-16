@@ -5,6 +5,7 @@
   justify-content: center;
   align-items: center;
   border: 1px solid rgb(25, 25, 25);
+  background-color: yellow;
 }
 #label {
   background-color: rgb(255, 228, 27);
