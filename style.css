@@ -1,12 +1,12 @@
 .container {
-  width: 200px;
+  width: 400px;
   height: 200px;
   display: flex;
   justify-content: center;
   align-items: center;
-  border: 1px solid rgb(13, 13, 13);
+  border: 1px solid rgb(25, 25, 25);
 }
 #label {
-  background-color: rgb(235, 209, 11);
+  background-color: rgb(255, 228, 27);
   text-align: center;
 }
